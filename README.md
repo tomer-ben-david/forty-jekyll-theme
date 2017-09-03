@@ -63,3 +63,7 @@ Credits:
 ```
 
 Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
+
+# Run
+
+docker run --rm  -p 4000:4000  --volume=$PWD:/srv/jekyll   --volume=$PWD/vendor/bundle:/usr/local/bundle   -it jekyll/jekyll:$JEKYLL_VERSION jekyll serve
