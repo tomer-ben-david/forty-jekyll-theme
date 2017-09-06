@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Keren braids'
+landing-title: "Hi, I'm Keren and i'm going to make your super styled braids!"
 description: null
 image: null
 author: null

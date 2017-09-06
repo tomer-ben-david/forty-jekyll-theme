@@ -1,17 +1,17 @@
 # site settings
-title: keren
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Keren Braids
+subtitle: by Keren Styling
+email: amram.k@gmail.com
+description: I love doing braids and I can help you with it!<br /> for any beauty and styling dont hesitate just contact me!
 baseurl: "/keren-braids-forty" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Hatoren 8/19
+city: Yavne
+state: Israel
+zip_code: 810483
+country: Israel
+phone: (+972) 50-901-1255 (050-9011255)
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
