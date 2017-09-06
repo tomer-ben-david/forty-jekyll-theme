@@ -75,9 +75,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Braid Shop</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>I also get much of my material from the internet, you can either check out **my shop** or just use the links i provide directly to other websites which sell the same exact material i use!.</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">See My Work</a></li>
 		</ul>
