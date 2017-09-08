@@ -3,7 +3,7 @@ title: Keren Braids
 subtitle: by Keren Styling
 email: amram.k@gmail.com
 description: I love doing braids and I can help you with it!<br /> for any beauty and styling dont hesitate just contact me!
-baseurl: "/keren-braids-forty" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: Hatoren 8/19
