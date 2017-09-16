@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "Hi, I'm Keren and i'm going to make your super styled braids!"
+landing-title: "Surprise your peers with super styled oriental braids"
 description: null
 image: null
 author: null
